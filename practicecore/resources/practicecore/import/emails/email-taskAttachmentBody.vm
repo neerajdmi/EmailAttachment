@@ -1,0 +1,15 @@
+## messageSource=classpath:/practicecore/messages/email-sendEmailAttachment_$lang.properties
+<html>
+    <head>
+    </head>
+
+    <body bgcolor="#ffffff">
+
+        <h1>Hello!! Email With Attachment </h1>
+       
+       
+
+        <p>This is a Generating Email from Hybris to print details</p>
+
+    </body>
+</html>

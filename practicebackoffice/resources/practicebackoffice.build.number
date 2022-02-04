@@ -1,0 +1,11 @@
+#Ant properties
+#Tue Jun 01 00:16:57 CEST 2021
+version.api=2005
+vendor=hybris
+group.id=de.hybris.platform
+name=practicebackoffice
+description=practicebackoffice
+builddate=20210601 0014
+releasedate=20200513 1957
+version=2005.13
+module.name=platform-module
